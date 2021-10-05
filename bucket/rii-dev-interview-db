@@ -1,0 +1,88 @@
+[
+    {
+        "type": "book",
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling",
+        "published": "10-1-2000"
+    },
+    {
+        "type": "book",
+        "title": "Harry Potter and the Deathly Hallows",
+        "author": "J.K. Rowling",
+        "published": "10-3-2007"
+    },
+    {
+        "type": "book",
+        "title": "Totally Real Book Name",
+        "author": "Totally Real Author",
+        "published": "6-4-1995"
+    },
+    {
+        "type": "book",
+        "title": "Totally Real Book Name: Electric Boogaloo",
+        "author": "Totally Real Author",
+        "published": "6-17-2000"
+    },
+    {
+        "type": "book",
+        "title": "Ender's Game",
+        "author": "Orson Scott Card",
+        "published": "1-15-1985"
+    },
+    {
+        "type": "book",
+        "title": "American Gods",
+        "author": "Neil Gaiman",
+        "published": "6-19-2001"
+    },
+    {
+        "type": "book",
+        "title": "Totally Real Author",
+        "author": "Totally Real Book Name: The Re-Real-ening",
+        "published": "6-13-1998"
+    },
+    {
+        "type": "book",
+        "title": "Norse Mythology",
+        "author": "Neil Gaiman",
+        "published": "1-3-2020"
+    },
+    {
+        "type": "book",
+        "title": "Gregor the Overlander",
+        "author": "Suzanne Collins",
+        "published": "9-1-2003"
+    },
+    {
+        "type": "book",
+        "title": "Gregor and the Code of Claw",
+        "author": "Suzanne Collins",
+        "published": "4-3-2007"
+    },
+
+    {
+        "type": "author",
+        "name": "Orson Scott Card",
+        "age": 50
+    },
+    {
+        "type": "author",
+        "name": "Neil Gaiman",
+        "age": 13
+    },
+    {
+        "type": "author",
+        "name": "J.K. Rowling",
+        "age": 45
+    },
+    {
+        "type": "author",
+        "name": "Totally Real Author",
+        "age": 32
+    },
+    {
+    "type": "author",
+    "name": "Suzanne Collins",
+    "age": 59
+    }
+]
